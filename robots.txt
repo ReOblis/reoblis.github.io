@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://reoblis.github.io/sitemap.xml
